@@ -1,22 +1,22 @@
 {
     "my_new_tf_env": {
-        "role": "arn:aws:iam::617296401743:role/TerraformGitHubActionsRole",
-        "region": "us-west-2",
-        "state_bucket":"wishnick-terraform-states"
+        "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
+        "region": "eu-west-2",
+        "state_bucket":"aws-proton-terraform-role-stack"
     },
     "tf_tutorial_env": {
-        "role": "arn:aws:iam::617296401743:role/TerraformGitHubActionsRole",
-        "region": "us-west-2",
-        "state_bucket":"wishnick-terraform-states"
+        "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
+        "region": "eu-west-2",
+        "state_bucket":"aws-proton-terraform-role-stack"
     },
     "blog_post_prod": {
-        "role": "arn:aws:iam::617296401743:role/TerraformGitHubActionsRole",
-        "region": "us-west-2",
-        "state_bucket":"wishnick-terraform-states"
+        "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
+        "region": "eu-west-2",
+        "state_bucket":"aws-proton-terraform-role-stack"
     },
     "new_env": {
-        "role": "arn:aws:iam::617296401743:role/TerraformGitHubActionsRole",
-        "region": "us-west-2",
-        "state_bucket":"wishnick-terraform-states"
+        "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
+        "region": "eu-west-2",
+        "state_bucket":"aws-proton-terraform-role-stack"
     } 
 }
