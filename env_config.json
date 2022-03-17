@@ -2,21 +2,21 @@
     "my_new_tf_env": {
         "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
         "region": "eu-west-1",
-        "state_bucket":"aws-proton-terraform-bucket-566972129213"
+        "state_bucket":"aws-proton-tf-bucket-566972129213"
     },
     "tf_tutorial_env": {
         "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
         "region": "eu-west-1",
-        "state_bucket":"aws-proton-terraform-bucket-566972129213"
+        "state_bucket":"aws-proton-tf-bucket-566972129213"
     },
     "blog_post_prod": {
         "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
         "region": "eu-west-1",
-        "state_bucket":"aws-proton-terraform-bucket-566972129213"
+        "state_bucket":"aws-proton-tf-bucket-566972129213"
     },
     "new_env": {
         "role": "arn:aws:iam::566972129213:role/ExampleGithubRole",
         "region": "eu-west-1",
-        "state_bucket":"aws-proton-terraform-bucket-566972129213"
+        "state_bucket":"aws-proton-tf-bucket-566972129213"
     } 
 }
